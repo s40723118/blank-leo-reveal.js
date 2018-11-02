@@ -21,16 +21,16 @@
 <v t="40323230.20171027160523.1" a="E"><vh>Title</vh>
 <v t="40323230.20171117122904.1"><vh>Cover</vh></v>
 </v>
-<v t="leo.20181102150422.1"><vh>Title</vh>
+<v t="leo.20181102150422.1" a="E"><vh>Title</vh>
 <v t="leo.20181102150422.2"><vh>Cover</vh></v>
 </v>
-<v t="leo.20181102150423.1"><vh>Title</vh>
+<v t="leo.20181102150423.1" a="E"><vh>Title</vh>
 <v t="leo.20181102150423.2"><vh>Cover</vh></v>
 </v>
-<v t="leo.20181102150424.1"><vh>Title</vh>
+<v t="leo.20181102150424.1" a="E"><vh>Title</vh>
 <v t="leo.20181102150424.2"><vh>Cover</vh></v>
 </v>
-<v t="leo.20181102150425.1"><vh>Title</vh>
+<v t="leo.20181102150425.1" a="E"><vh>Title</vh>
 <v t="leo.20181102150425.2"><vh>Cover</vh></v>
 </v>
 </v>
@@ -211,12 +211,12 @@ Author: kmol
 
 </t>
 <t tx="40323230.20171117122904.1">&lt;section data-markdown&gt;&lt;textarea data-template&gt;
-Title
+投影片
 ---
-123
+安安  你好
 ---
 
-Author
+創作者:林旻隆
 &lt;/textarea&gt;&lt;/section&gt;
 </t>
 <t tx="leo.20181102150422.1">&lt;section&gt;
@@ -224,12 +224,12 @@ Author
 &lt;/section&gt;
 </t>
 <t tx="leo.20181102150422.2">&lt;section data-markdown&gt;&lt;textarea data-template&gt;
-Title
----
 
 ---
+早安你好,沒你更好
+---
 
-Author
+
 &lt;/textarea&gt;&lt;/section&gt;
 </t>
 <t tx="leo.20181102150423.1">&lt;section&gt;
@@ -239,7 +239,7 @@ Author
 <t tx="leo.20181102150423.2">&lt;section data-markdown&gt;&lt;textarea data-template&gt;
 Title
 ---
-
+牛頓第一運動定律 靜者恆靜 動者恆作等速直線運動
 ---
 
 Author
@@ -252,7 +252,7 @@ Author
 <t tx="leo.20181102150424.2">&lt;section data-markdown&gt;&lt;textarea data-template&gt;
 Title
 ---
-
+牛頓第二運動定律 F=M*A F是牛頓(N) M是物理質量(Kg) A是加速度(m/s2)
 ---
 
 Author
@@ -265,7 +265,7 @@ Author
 <t tx="leo.20181102150425.2">&lt;section data-markdown&gt;&lt;textarea data-template&gt;
 Title
 ---
-
+牛頓第三運動定律  作用力與反作用力  力大小相等 方向相反 作用在同一直線上
 ---
 
 Author
