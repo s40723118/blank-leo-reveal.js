@@ -237,12 +237,12 @@ Author: kmol
 &lt;/section&gt;
 </t>
 <t tx="leo.20181102150423.2">&lt;section data-markdown&gt;&lt;textarea data-template&gt;
-Title
+
 ---
 牛頓第一運動定律 靜者恆靜 動者恆作等速直線運動
 ---
 
-Author
+
 &lt;/textarea&gt;&lt;/section&gt;
 </t>
 <t tx="leo.20181102150424.1">&lt;section&gt;
@@ -250,12 +250,12 @@ Author
 &lt;/section&gt;
 </t>
 <t tx="leo.20181102150424.2">&lt;section data-markdown&gt;&lt;textarea data-template&gt;
-Title
+
 ---
 牛頓第二運動定律 F=M*A F是牛頓(N) M是物理質量(Kg) A是加速度(m/s2)
 ---
 
-Author
+
 &lt;/textarea&gt;&lt;/section&gt;
 </t>
 <t tx="leo.20181102150425.1">&lt;section&gt;
@@ -263,12 +263,12 @@ Author
 &lt;/section&gt;
 </t>
 <t tx="leo.20181102150425.2">&lt;section data-markdown&gt;&lt;textarea data-template&gt;
-Title
+
 ---
 牛頓第三運動定律  作用力與反作用力  力大小相等 方向相反 作用在同一直線上
 ---
 
-Author
+
 &lt;/textarea&gt;&lt;/section&gt;
 </t>
 </tnodes>
